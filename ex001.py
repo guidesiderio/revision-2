@@ -1,4 +1,4 @@
-print('Nota entre 0 e 10:')
+print('Validação de nota:')
 
 nota = input('Digite uma nota entre 0 e 10: ')
 nota_f = float(nota)
