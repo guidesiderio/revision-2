@@ -1,4 +1,4 @@
-print('Login:')
+print('Validar nome e senha')
 
 nome_usuario = input('Digite o seu nome de usuário: ')
 senha = input('Digite a sua senha: ')
