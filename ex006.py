@@ -1,4 +1,4 @@
-print('1 ao 20: Horizontal e Vertical')
+print('Horizontal e Vertical')
 
 for i in range(1, 21):
     print(i)
